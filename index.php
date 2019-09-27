@@ -5,11 +5,12 @@
     </head>
 
     <body id="root">
+
         <canvas id="canvas">
 
         </canvas>
 
-        <script src="draw-quadraticCurves.js"></script>
+        <script src="mouseEvents.js"></script>
     </body>
 
 </html>

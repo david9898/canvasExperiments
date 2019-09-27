@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb5ae4cb-490d-44db-b156-19f92e81d855" name="Default Changelist" comment="" />
+    <list default="true" id="eb5ae4cb-490d-44db-b156-19f92e81d855" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chessBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawRectangles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handleKeyEvents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mouseEvents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saveCanvasAsImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saveRestore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/canvas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/canvas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvas-line.js" beforeDir="false" afterPath="$PROJECT_DIR$/canvas-line.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvas-multiple-lines.js" beforeDir="false" afterPath="$PROJECT_DIR$/canvas-multiple-lines.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvas.css" beforeDir="false" afterPath="$PROJECT_DIR$/canvas.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/canvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/draw-quadraticCurves.js" beforeDir="false" afterPath="$PROJECT_DIR$/draw-quadraticCurves.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drawCurve.js" beforeDir="false" afterPath="$PROJECT_DIR$/drawCurve.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/line-gap.js" beforeDir="false" afterPath="$PROJECT_DIR$/line-gap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/line-joins.js" beforeDir="false" afterPath="$PROJECT_DIR$/line-joins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/line-shadow.js" beforeDir="false" afterPath="$PROJECT_DIR$/line-shadow.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,15 +46,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RHcJr5exHNrg0t2rZJwdX4f9Op" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../checkFiles" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -63,10 +92,25 @@
       <workItem from="1569409335750" duration="19000" />
       <workItem from="1569409381340" duration="9406000" />
       <workItem from="1569421073661" duration="18000" />
+      <workItem from="1569486043857" duration="9278000" />
+      <workItem from="1569571736166" duration="2093000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
